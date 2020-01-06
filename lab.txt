@@ -1,0 +1,15 @@
+ESXI Hypervisor:
+
+            | [WAN]
+            |
+            |
+            |
+ pfsense |--+--|
+            |
+            |-- docker +--|-- ...
+  windows --|             |-- pihole
+   ubuntu --|             |-- portainer
+     kali --|             |-- games
+      ... --|
+      NAS --|
+            | [LAN]
