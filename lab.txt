@@ -9,7 +9,7 @@ ESXI Hypervisor:
             |-- docker +--|-- ...
   windows --|             |-- pihole
    ubuntu --|             |-- portainer
-     kali --|             |-- games
+     kali --|             
       ... --|
       NAS --|
             | [LAN]
